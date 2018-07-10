@@ -4,7 +4,7 @@
 
 # Laravel Realtime Map
 
-This application implements a [Pusher](https://pusher.com) server that broadcasts location updates when it receives a web request. The code for the frontend map that responds to the location update can be found [here](https://github.com/perfectmak/angular-realtime-map). There is also an tutorial explaining how this work in detail and can be found [here](https://pusher.com/tutorials/realtime-map-laravel/).
+This application implements a [Pusher] server that broadcasts location updates when it receives a web request. The code for the frontend map that responds to the location update can be found. There is also an tutorial explaining how this work in detail and can be found [here](https://pusher.com/tutorials/realtime-map-laravel/).
 
 ## Getting Started
 
